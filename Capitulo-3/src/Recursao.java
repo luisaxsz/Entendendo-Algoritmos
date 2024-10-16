@@ -1,7 +1,6 @@
-import java.awt.image.AreaAveragingScaleFilter;
 import java.util.ArrayList;
 
-public class Recursão {
+public class Recursao {
     public static void main(String[] args) {
         System.out.println(fatorial(5));
         System.out.println(soma(new ArrayList<>(java.util.List.of(2,4,6))));
